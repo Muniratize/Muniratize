@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muniratize
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently taking a  Data Analysis with CISCO
 - 💞️ I’m looking to collaborate on various data analysis projects
 - 📫 How to reach me - muniratyakubu6@gmail.com
 
